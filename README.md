@@ -27,7 +27,7 @@ To identify factors influencing revenue and profitability and provide actionable
 
 ## 📈 Tableau Dashboard
 🔗 [View Dashboard]([PASTE_YOUR_TABLEAU_LINK_HERE](https://public.tableau.com/views/superstoredata_17756424419440/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
+Dashboard 1 (1).png
 ---
 
 ## 📊 Key Insights
