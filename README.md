@@ -39,7 +39,7 @@ To identify factors influencing revenue and profitability and provide actionable
 
 ## 📁 Dataset
 The Superstore Dataset used:
-[View Dataset](Superstore_dataset-SampleSuperstore.pdf)
+[View Dataset](SampleSuperstore.csv)
 
 ---
 
