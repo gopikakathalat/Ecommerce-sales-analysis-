@@ -38,7 +38,14 @@ To identify factors influencing revenue and profitability and provide actionable
 ---
 
 ## 📁 Dataset
-Superstore Dataset (Sample dataset for analytics practice)
+The Superstore Dataset used:
+[View Dataset](Superstore_dataset-SampleSuperstore.pdf)
+
+---
+
+## 🧾 SQL Queries
+All SQL queries used in this project are available here:
+[View SQL Queries](sql_queries.sql)
 
 ---
 
